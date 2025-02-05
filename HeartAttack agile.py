@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Dell\Desktop\Agile lab\heart.csv")
+df = pd.read_csv(r"heart.csv")
 
 # Split features and target
 x = df.drop("target", axis=1)
@@ -67,7 +67,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Dell\Desktop\Agile lab\heart.csv")
+df = pd.read_csv(r"heart.csv")
 
 # Split features and target
 x = df.drop("target", axis=1)
@@ -121,7 +121,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Dell\Desktop\Agile lab\heart.csv")
+df = pd.read_csv(r"heart.csv")
 
 # Split features and target
 x = df.drop("target", axis=1)
@@ -176,7 +176,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Dell\Desktop\Agile lab\heart.csv")
+df = pd.read_csv(r"heart.csv")
 
 # Split features and target
 x = df.drop("target", axis=1)
@@ -232,7 +232,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\Dell\Desktop\Agile lab\heart.csv")
+df = pd.read_csv(r"heart.csv")
 
 # Split features and target
 x = df.drop("target", axis=1)
